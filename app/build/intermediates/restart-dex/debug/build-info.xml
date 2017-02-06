@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="20322571940582"
+    token="-8130333833529889925"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="208" />
+    <task
+        name="instant-run-dex"
+        duration="47" />
+    <task
+        name="instant-run-transform"
+        duration="47" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="20230605369381"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="20322571940582"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

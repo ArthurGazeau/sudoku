@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_4b182ad37f7d8eb7dc4d926da13953f151efdcd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_7023e86d1f12063981a691b89b73f00783188735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_b7beae7bb8ba7aab3234fd1ba20ad10898c1f634\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_7f858fba607fb6548977aa5457721c145c16161d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_57fd8b9e0720c8998bd2296656569878423b4a47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_0d2c11caa15820f56c1b069817477e83b5918729\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_f2b5e4c7a8425ae6cab3cbef4149bb721bb9d247\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_4bfbff386a92d9717dc187fc628a54dac2f913c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_ea2b5578700fe9b150b10c7309252084b76dc9a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbd01c8728ecc272b644e04e0c431720df533f11">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_510810c2a941090a55d0dca4a60aec11848fb9ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d0726efb28ec69837263781c17981f4785c2fd0">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_17a0b3a85dd01b2ffe338e94698ce0d8f0eb3145\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Nesta\AndroidStudioProjects\Sudoku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_f423690911766e672939f00258b29c06b3876be4\classes.dex" />
+    </item>
+
+</items>

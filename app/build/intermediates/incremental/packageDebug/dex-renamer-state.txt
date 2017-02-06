@@ -1,0 +1,7 @@
+#Mon Feb 06 18:46:46 CET 2017
+base.0=C\:\\Users\\Nesta\\AndroidStudioProjects\\Sudoku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_510810c2a941090a55d0dca4a60aec11848fb9ca
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Nesta\\AndroidStudioProjects\\Sudoku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_17a0b3a85dd01b2ffe338e94698ce0d8f0eb3145\\classes.dex
+base.1=C\:\\Users\\Nesta\\AndroidStudioProjects\\Sudoku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_17a0b3a85dd01b2ffe338e94698ce0d8f0eb3145
+file.0=C\:\\Users\\Nesta\\AndroidStudioProjects\\Sudoku\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_510810c2a941090a55d0dca4a60aec11848fb9ca\\classes.dex
